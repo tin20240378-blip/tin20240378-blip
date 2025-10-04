@@ -39,13 +39,3 @@
 ---
 
 ✨ Thanks for visiting my profile! Feel free to connect with me and check out my projects.
-
-
----
-
-## 👀 Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=tin20240378-blip&color=blue&style=flat)
-
----
-
-✨ Thanks for visiting my profile! Feel free to connect with me and check out my projects.

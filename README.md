@@ -40,8 +40,6 @@
 
 ✨ Thanks for visiting my profile! Feel free to connect with me and check out my projects.
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tin20240378-blip&theme=radical)
 
 ---
 
